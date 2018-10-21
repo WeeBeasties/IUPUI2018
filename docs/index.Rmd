@@ -121,11 +121,11 @@ A few ancillary resources for the presentation are available online. Below are h
 * All results are computationally reproducible and extensible
 
 ## An Example of Indirect Assessment
-* Graduate Survey Results
-* Sent to all graduating seniors
-* Both quantitative and qualitative
+* Graduate Survey Results  
+* Sent to all graduating seniors  
+* Both quantitative and qualitative data  
 
-* [http://www.reproducibleassessment.com/1703/](http://www.reproducibleassessment.com/1703/)
+* [http://www.reproducibleassessment.com/1703/](http://www.reproducibleassessment.com/1703/){target:"_blank"}
 
 ## Authoring Tools [FREE] 
 * [R](https://www.r-project.org)
