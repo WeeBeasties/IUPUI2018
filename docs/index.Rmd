@@ -166,11 +166,19 @@ A few ancillary resources for the presentation are available online. Below are h
 * Policies are still evolving
 * Still, promising early signs
 
+## Future Prospects
+* We will be working to enlarge our sampling
+* More data could lead to greater granularity
+* Longitudinal studies will eventually be possible
+* Data may be the basis for future research projects
+* Other institutions are encouraged to check out our data and analyses
+* A web-based dashboard will be deployed as our dataset becomes more complex
+
 ## Summary
 
->* We are creating a _collaborative_ assessment environment  
->* This is more about **process** than **personality**  
->* Focus is on making a **resource** rather than just **reports**    
+* We are creating a _collaborative_ assessment environment  
+* This is more about **process** than **personality**  
+* Focus is on making a **resource** rather than just **reports**    
 
 ## Questions?
 
