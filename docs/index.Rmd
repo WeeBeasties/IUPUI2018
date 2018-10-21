@@ -21,20 +21,23 @@ output:
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 ## Presentation Handouts
+A few ancillary resources for the presentation are available online. Below are html links to the PDF documents. 
+
 * <a href="http://www.reproducibleassessment.com/IUPUI2018/handout.pdf", target="_blank">QR codes and website information</a>
 * <a href="http://www.reproducibleassessment.com/IUPUI2018/resources.pdf", target="_blank">PDF copy of a resource list</a>
 
 ## Objectives  
-1. Describe the process used for General Education assessment at Ferris State University
-2. Provide access to all of our assessment resources
-3. Demonstrate several mechanisms for involving faculty in the assessment process
+1. Recognize the components of interactive assessment reports as constructed at Ferris;
+1. Locate and use the online tools necessary to create interactive assessment reports;
+1. Appreciate the costs and benefits of interactive assessment reports;
+1. Be prepared to use these employ these reports on their own campuses.
 
 
 ## About Ferris State
 <div id="left">
 * West Central Michigan  
 * Medium Masters University  
-* 14,600 students  
+* 13,800 students  
 * Recently Revised General Education 
 </div>
 <div id="right">
@@ -44,23 +47,32 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 
 
 ## Assessment in 1985
-* 
-* 
+* First National Conference on Assessment in Higher Education
+* Recommended that higher student achievement could be produced by:
+
+	  1. Establishing high expectations for students  
+	  2. Involving them in active learning environments   
+	  3. Providing prompt and useful feedback   
 
 ## Computers in 1985
 <div id="left">
-* 
-* 
+* Apple 128K
+* 128KB RAM
+* No hard drive
+* 1 3.5" 400KB floppy drive
+* Must eject operating system to use another disk
 </div>
 <div id="right">
 <section class = "plain">
-![](images/1985_mac.jpg) 
+![](images/128.png) 
 </section>
 
-## Phones in 1985
+## Portable Phones in 1985
 <div id="left">
-* 
-* 
+* Nokia TalkMan
+* First "mobile" phone
+* 11 pounds
+* Carried in a large bag
 </div>
 <div id="right">
 <section class = "plain">
@@ -78,14 +90,17 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ![](images/alive_at_work.jpg) 
 </section>
 
-## General Education Assessment
-* **Goal:** Track and improve program effectiveness <br />  
-
-	>* Our program primarily consists of courses
-	>* Embedded course assignments are the most meaningful and valid measures of student learning.
-	>* General Education applies to all students<br />  
-	
->* **Therefore, we are measuring student performance in General Education using embedded assessments for all students in all courses.**
+## The Assessment Cycle
+<div id="left">
+* Expensive planning and preparation
+* Laborious pursuit of the prize
+* Brief denouement
+* Archive for posterity
+</div>
+<div id="right">
+<section class = "plain">
+![](images/raiders.jpg) 
+</section>
 
 ## A Better Model
 <blockquote>"Assessment is not a spreadsheet -- it is a conversation"<br />Irmeli Halinen</blockquote>
@@ -98,45 +113,40 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 
 * **ALL** assessment resources are public-facing  <br />  
 
-	>* Data reports (PDF and HTML)
-	>* Data analysis code (R)
-	>* Deidentified data files (csv)<br />
+	* Data reports (PDF and HTML)
+	* Data analysis code (R)
+	* Deidentified data files (csv)<br />
 
->* All released with MIT or CC-BY licenses  
->* All results are computationally reproducible and extensible
+* All released with MIT or CC-BY licenses  
+* All results are computationally reproducible and extensible
 
-## Sustainable assessment
-* The three keys to our program assessment strategy: <br /><br />
+## An Example of Indirect Assessment
+* Graduate Survey Results
+* Sent to all graduating seniors
+* Both quantitative and qualitative
 
->1. **Simplification** — reduce complexity  
->2. **Standardization** — reduce variance
->3. **Automation** — reduce workload
+* [http://www.reproducibleassessment.com/1703/](http://www.reproducibleassessment.com/1703/)
 
+## Authoring Tools [FREE] 
+* [R](https://www.r-project.org)
+* [RStudio](https://www.rstudio.com) - an IDE
+* [Bookdown](https://cran.r-project.org/web/packages/bookdown/bookdown.pdf) - A RStudio package
+* [git](https://git-scm.com) - version control
+* [LaTeX](http://xetex.sourceforge.net) (XeTeX) - for PDFs
 
-## Simplify: Core Competencies  
-* Eight competencies: <br />  
+## Publishing Tools [FREE]
+* [GitHub](https://github.com) - online version control
+* [Open Science Framework](https://osf.io) - free data sharing
+* [Disqus](https://disqus.com)
+* The sky is the limit on the cloud
 
->* Collaboration, Communication, Culture, Diversity, Natural Sciences, Problem Solving, Quantitative Literacy, Self and Society  
->* Each overseen by a faculty subcommittee (6-10 members)  <br /><br />  
-
-  >1. Operational definitions  
-  >2. Goals (<a href="https://ferris.edu/HTMLS/academics/general-education/competencies/hallmarks.htm" target="_blank">Hallmarks of a Bulldog</a>)  
-  >3. Relevance statements  
-
-## Simplify: Ferris Learning Outcomes
->* Each competency has four learning outcomes
->* Based upon what we want our graduating seniors to look like
->* Derived from LEAP 
->* One outcome measured each semester
->* <a href="https://ferris.edu/HTMLS/academics/general-education/evidence/schedule.htm", target="_blank">Rolling two-year program cycle</a>   
-
-## Standardize: Rubrics
-* Derived from VALUE rubrics  
-* <a href="http://www.reproducibleassessment.com/1701/", target="_blank">General Education now has a uniform</a>: <br /><br />  
-
->1. Scoring system (zero to four point scale)  
->2. Analysis interpretation (four threshold values)  
->3. Criterion leveling (expectations by course level)  
+## Training Resources [FREE]
+* [RStudio Tutorials](https://www.rstudio.com/online-learning/)
+* [Bookdown Book](https://bookdown.org/yihui/bookdown/)
+* [R for Data Science Book](http://r4ds.had.co.nz)
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Reproducible Research with R and RStudio Book](https://englianhu.files.wordpress.com/2016/01/reproducible-research-with-r-and-studio-2nd-edition.pdf)
+* [R Markdown: The Definitive Guide Book](https://bookdown.org/yihui/rmarkdown/)
 
 ## Standardize: Measures
 * Created in order to get more uniform data collection and summarization
