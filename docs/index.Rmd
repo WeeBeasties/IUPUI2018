@@ -21,11 +21,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 ## Presentation Handouts
-
 * <a href="http://www.reproducibleassessment.com/IUPUI2018/handout.pdf", target="_blank">QR codes and website information</a>
-
-* <a href="http://www.reproducibleassessment.com/IUPUI2018/slides.pdf", target="_blank">PDF of the slides</a>
-
 * <a href="http://www.reproducibleassessment.com/IUPUI2018/resources.pdf", target="_blank">PDF copy of a resource list</a>
 
 ## Objectives  
@@ -45,6 +41,7 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 <section class = "plain">
 ![](images/clockbelltower.jpg) 
 </section>
+
 
 ## Assessment in 1985
 * 
