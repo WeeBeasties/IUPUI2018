@@ -34,16 +34,15 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 
 ## About Ferris State
 <div id="left">
-* West Central Michigan
-* Medium Masters University
-* 14,600 students
-* Recently Revised General Education
+* West Central Michigan  
+* Medium Masters University  
+* 14,600 students  
+* Recently Revised General Education 
 </div>
 <div id="right">
 <section class = "plain">
 ![](images/clockbelltower.jpg) 
 </section>
-
 
 ## Assessment in 1985
 * 
