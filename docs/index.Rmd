@@ -153,6 +153,40 @@ A few ancillary resources for the presentation are available online. Below are h
 * [Reproducible Research with R and RStudio Book](https://englianhu.files.wordpress.com/2016/01/reproducible-research-with-r-and-studio-2nd-edition.pdf)
 * [R Markdown: The Definitive Guide Book](https://bookdown.org/yihui/rmarkdown/)
 
+## Eight Core Competencies
+
+* Collaboration, Communication, Culture, Diversity, Natural Sciences, Problem Solving, Quantitative Literacy, Self and Society  
+* Each overseen by a faculty subcommittee (6-10 members)  <br /><br />  
+
+  1. Operational definitions  
+  2. Goals (<a href="https://ferris.edu/HTMLS/academics/general-education/competencies/hallmarks.htm" target="_blank">Hallmarks of a Bulldog</a>)  
+  3. Relevance statements  
+
+## Standard Outcomes
+* Each competency has four learning outcomes
+* Based upon what we want our graduating seniors to look like
+* Derived from LEAP 
+* One outcome measured each semester
+* <a href="https://ferris.edu/HTMLS/academics/general-education/evidence/schedule.htm", target="_blank">Rolling two-year program cycle</a>   
+
+## Standard Rubrics
+* Derived from VALUE rubrics  
+* <a href="http://www.reproducibleassessment.com/1701/", target="_blank">General Education now has a uniform</a>: <br /><br />  
+
+1. Scoring system (zero to four point scale)  
+2. Analysis interpretation (four threshold values)  
+3. Criterion leveling (expectations by course level)  
+
+## Standard Measures
+* Created in order to get more uniform data collection and summarization
+
+* <a href="https://ferris.edu/HTMLS/academics/general-education/evidence/measures.htm". target="_blank">14 different types</a> of measures are defined  
+* Instructors can choose to use any one they wish <br /><br />  
+
+1. Exams
+2. Products
+3. Performances
+
 ## A General Education Report
 * Quantitative Literacy (Math)
 * Fall, 2017
